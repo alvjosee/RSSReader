@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "972004404592",
+    "firebase_url": "https://proyecto1-3b095-default-rtdb.firebaseio.com",
+    "project_id": "proyecto1-3b095",
+    "storage_bucket": "proyecto1-3b095.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972004404592:android:5522cc9639167a9a6a33b5",
+        "android_client_info": {
+          "package_name": "com.example.rssreader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd266--WUQh2b6UWdAWpfnDLyii_pwXh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972004404592:android:b89c5209ca8c0b4d6a33b5",
+        "android_client_info": {
+          "package_name": "com.mycompany.ezfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd266--WUQh2b6UWdAWpfnDLyii_pwXh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

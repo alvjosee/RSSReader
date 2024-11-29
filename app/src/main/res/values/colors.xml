@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Gray">#A4A3A3</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="Lblue">#4158AB</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Green">#189e01</color>
+    <color name="SemiGreen">#73b701</color>
+    <color name="Sand">#e7a545</color>
+    <color name="Red">#cd010a</color>
+    <color name="Morado">#883b62</color>
+    <color name="Orange">#992900</color>
+    <color name="Wine">#330104</color>
+    <color name="Brown">#653722</color>
+</resources>
